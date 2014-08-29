@@ -25,3 +25,20 @@
     text-decoration: underline;
 	
 }
+
+.index-title { 
+    color:#59ACFF; } 
+
+.videos-title {
+	color:#990000;
+    text-decoration: underline;
+}
+
+.class2 li a {
+	color:pink;
+}
+
+.class2 li a:hover {
+	color:green;
+    text-decoration: none;
+}
