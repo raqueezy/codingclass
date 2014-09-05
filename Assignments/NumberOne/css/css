@@ -1,0 +1,15 @@
+.page-navigation ul li {
+	list-style: none;
+}
+
+.main-footer {
+	height: 100px;
+	color: #fff;
+	background: #222;
+}
+
+
+
+.base {
+
+}
