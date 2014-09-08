@@ -1,15 +1,21 @@
-.page-navigation ul li {
+.page-navigation {
 	list-style: none;
 }
 
-.main-footer {
+.main-header{
 	height: 100px;
+    color: #fff;
+    background: royalblue;
+    text-align: center;
+    padding-top: 40px;
+    font-size: 70px;
+    padding-left: 100px;
+}
+.main-footer {
+	padding-top: 20px;
+	text-align: center;
+	height: 40px;
 	color: #fff;
-	background: #222;
+	background: #633A3A;
 }
 
-
-
-.base {
-
-}
