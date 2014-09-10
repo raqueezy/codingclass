@@ -1,15 +1,17 @@
 .page-navigation {
 	list-style: none;
+	padding-right: 1030px; 
+	border-bottom: 1px solid #000;
+	font-size: 15px;
 }
 
-.main-header{
-	height: 100px;
+.main-header {
+	height: 200px;
     color: #fff;
-    background: royalblue;
-    text-align: center;
-    padding-top: 40px;
+    background: #53537C;
     font-size: 70px;
-    padding-left: 100px;
+    text-align: center;
+
 }
 .main-footer {
 	padding-top: 20px;
@@ -18,4 +20,13 @@
 	color: #fff;
 	background: #633A3A;
 }
+
+.paragraph {
+	padding-left: 320px;
+	font-size: 15px;
+	float: right;
+}
+
+
+	
 
