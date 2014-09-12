@@ -1,0 +1,42 @@
+.container {
+	width: 960px;
+	margin: 0 auto;
+	border: 6px solid red;
+}
+
+.main-header {
+	padding-top: 25px;
+	text-align: center;
+	height: 125px;
+	background-color: #666699
+}
+
+.main-header span {
+	color: #fff;
+	font-size: 78px;
+}
+
+.main-footer {
+	color: #fff;
+	padding-top: 5px;
+	text-align: center;
+	height: 35px;
+	background-color: #855c33;
+}
+
+.main-content .sidebar {
+	width: 160px;
+	background-color: yellow;
+	float: left;
+}
+
+.main-content .content {
+	width: 800px;
+	background-color: pink;
+	float: left;
+	padding: 10px ;
+}
+
+.clear-float {
+	clear: both;
+}
